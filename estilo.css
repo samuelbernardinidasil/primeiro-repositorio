@@ -1,9 +1,14 @@
 *body {
-    background-color: black;
+    
 }
 
 img {
     width: 100%;
+}
+
+.principal{
+    background-color: black; 
+    padding: 30px;
 }
 
 h1 {
@@ -21,3 +26,28 @@ em strong {
 #missao {
     font-size: 20px;
 }
+
+.beneficios {
+    background-color: #FFFFFF;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.imagembeneficios {
+    width: 50%;
+}
+
