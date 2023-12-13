@@ -4,24 +4,22 @@ body {
 
 .titulo-principal {
     padding-left: 25px;
-    background-color: #CCCCCC;
-    color: black;
 }
 
 img {
     width: 100%;
 }
 
-.principal{
-    background-color: #CCCCCC; 
+.principal {
+    background: #CCCCCC;
     padding: 30px;
 }
 
 h2 {
-   text-align: center;
+    text-align: center;
 }
 
-P {
+p {
     text-align: center;
 }
 
@@ -34,7 +32,7 @@ em strong {
 }
 
 .beneficios {
-    background-color: #FFFFFF;
+    background: #FFFFFF;
     padding: 20px;
 }
 
